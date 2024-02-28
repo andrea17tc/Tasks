@@ -1,0 +1,8 @@
+1 task1 ion ana maria Close
+4 task2 ana ionel catalina Close
+5 task3 ana carina Close
+2 task4 carolina Inprogress
+6 task5 ana Inprogress
+67 task6 maria Inprogress
+11 task7 ionut marcel Open
+3 task8 ana Open
